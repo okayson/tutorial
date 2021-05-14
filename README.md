@@ -8,3 +8,4 @@ Update on test2 branch.
 revertのテスト
 test1ブランチで追加。rebaseする
 for reset1
+for reset2
